@@ -8,10 +8,13 @@ const About = () => {
           <div className="my-auto mx-6">
             <h2 className="text-4xl font-bold mb-4 primary-color">About me</h2>
             <p className="text-base lg:text-lg">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita
-              accusantium delectus impedit harum dignissimos corporis
-              perferendis dicta explicabo, deserunt dolores iste vel? Facilis
-              repudiandae distinctio, dolore obcaecati quam architecto quia?
+              A bachelor degree of Informatics Engineering from Mikroskil
+              University. Experienced as a Full-Stack Developer who works with
+              HTML, CSS, JavaScript, React.js and Node.js. Currently working as
+              a Quality Assurance and also attending Full-Stack Web Developer
+              bootcamp program for deepening skills in Web Developer. A
+              detail-oriented individual who is eager for a full-time
+              opportunity in Full-Stack Web Development.
             </p>
           </div>
         </div>
